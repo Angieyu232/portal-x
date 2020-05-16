@@ -7,7 +7,6 @@ a static portfolio website with a blog, designed for photographer and visual art
 ![Home page Desktop](/ui-mockup/Home_Page_PC.png "home page PC") 
 ![Mobile About Page](/ui-mockup/About_Mobile.png "About page mobile")
 ![Desktop About Page](/ui-mockup/About_PC.png "About page PC")
-![Mobile Blog Page](/ui-mockup/Blog_Page_Mobile.png "Blog Page mobile")
 ![Desktop Blog Page](/ui-mockup/Blog_Page_PC.png "blog page PC")
 ![Mobile Contact Page](/ui-mockup/Contact_Mobile.png "contact page mobile)
 ![Desktop Contact Page](/ui-mockup/Contact_PC.png "contact page pc")
