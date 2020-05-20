@@ -7,6 +7,7 @@ a static portfolio website with a blog, designed for photographer and visual art
   - [x] align nav-items to left, nav-brand in center, social links to the right
   - [x] on mobile breakpoint, collapse the navbar button into right, center the nav-items 
   - [ ] on mobile breakpoint, insert social links icons under the nav-items
+  - [ ] on mobile size, when the navbar menu collapsed, items drop down from the top to bottome, with items centered
   - [ ] test it on different screen size
 - [ ] change the color palette of the contact page
 - [x] Use a Monserrat sans-serif font family
